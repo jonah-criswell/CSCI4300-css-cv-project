@@ -1,0 +1,92 @@
+{
+  "name": "Jonah Criswell",
+  "tagline": "An aspiring software developer",
+  "headshot": "images/Headshot.jpg",
+  "contact": {
+    "address": "204 Aspen Way, Dallas, GA, 30157",
+    "phone": "770-680-3037",
+    "email": "jvc.criswell@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jonah-criswell-607a4b291/"
+  },
+  "education": {
+    "school": "University of Georgia",
+    "gpa": "3.7",
+    "degree": "Bachelor of Science",
+    "graduation_date": "December 2026"
+  },
+  "honors_and_awards": [
+    {
+      "honor": "Dean's List",
+      "date": "2023-2025"
+    },
+    {
+      "honor": "Society of collegiate leadership and acheivement",
+      "date": "2024"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "Ruby on Rails", 
+    "REST APIs", 
+    "MVC", 
+    "RSpec", 
+    "TypeScript",
+    "SQL", 
+    "C", 
+    "C++", 
+    "JSON", 
+    "React", 
+    "Node.js",
+    "PostgreSQL", 
+    "Object-Oriented Programming", 
+    "Concurrency", 
+    "Bash", 
+    "Linux", 
+    "HTML", 
+    "Tailwind CSS", 
+    "JavaScript",
+    "Git/GitHub", 
+    "Cloud Infrastructure (AWS S3, EC2)", 
+    "HTTP", 
+    "Docker", 
+    "CI/CD", 
+    "System Architecture", 
+    "DevOps"
+  ],
+  "leadership_and_experience": [
+    {
+      "position": "Software Engineering Intern at Cru",
+      "link": "https://www.cru.org/",
+      "date": "2025\u2025"
+    },
+    {
+      "position": "Program Coordinator at WinShape Camps",
+      "date": "2024\u2024"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Give2Go",
+      "image": "Give2Go.png",
+      "descr": [
+        "Led development of Give2Go, a trip fundraising network addressing financial barriers for 6,000+ Cru students, by leveraging AI tools to accelerate prototyping and prioritize system design during a one-week sprint",
+        "Built a recursive group donation algorithm with adjustable distribution bias to enable strategic donor flexibility and to reduce student fundraising time by 30%, then deployed the MVP on Vercel and Render"
+      ]
+    },
+    {
+      "title": "eCommerce App",
+      "image": "Logo.png",
+      "descr": [
+        "Built a Ruby on Rails eCommerce site with user authentication, Stripe payments, back-in-stock email notifications, and search functionality, mimicking production-quality financial transactions at scale"
+      ]
+    },
+    {
+      "title": "Diagonal Sums",
+      "image": "C_Programming_Language.png",
+      "descr": [
+        "Designed a C program to compute diagonal sums in large integer datasets, implementing system calls for file I/O, dynamic memory management, and parallel processing with POSIX multithreading"
+      ]
+    }
+  ]
+}
